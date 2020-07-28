@@ -1,0 +1,32 @@
+Source Control -
+Allows people to work on the same files at the same time. 
+
+Git Project - keeps track of changes on a project from a certain user
+	- at anytime can sync up to repository and get everyones changes
+	- merge conflict - when two people edit the same content 
+	== your version
+		<li more good mortar>
+	== bobby's version
+	- when merge conflict happens then users have to manually make changes but that can be avioded by good communication between team members
+
+5 GIT Commands
+git status - see status whether your repository matches up with the server repository
+git add - add a file or changes 
+git commit - commits changes and add comment, git commit -m "message here"
+git push - pushes files upto server
+git pull - pulls files down from server
+
+type "git" in command line to see all commands and their functions
+git commands only work in git repository folder does not work in other folders on computer
+
+Work Flow
+- Do a "git pull" at the beginning of the day to get everyone elses changes from the day before
+- make changes
+- push changes up
+- add commits all throughout the day, do with every incremental piece of work that is done
+- every few hours make sure that they are in sync with everyone
+
+
+HTML puts the content on the page
+CSS - cascading style sheets
+Javascript - Functionality
